@@ -69,9 +69,5 @@ class DetailPageProduk : AppCompatActivity() {
 //        val DetailBrand = intent.getStringExtra("price")
 //        val DetailThumbnail = intent.getIntExtra("thumbnail",0)
 
-
-
-
-
     }
 }
